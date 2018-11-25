@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Plugins/ExternalService.SunRiseSet/obj
+/Solution/.vs/ExternalService.SunRiseSet/v15
+/WeatherDesktop/bin
